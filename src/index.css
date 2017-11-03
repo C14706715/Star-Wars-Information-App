@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+
+}
+
+h1{
+	font-family: "Courier new", serif;
+	font-weight: bold;
+	color:darkgoldenrod;
+}
+
+h2{
+	font-family: "Courier new", sans-serif;
+	color: darkorange;
+	font-weight: bold;
+}
+
+#logo{
+	display: block;
+	margin: auto;
+	width: 50%;
+}
+
+#MainName, #MainIntro{
+	text-align: center;
+}
+
+
+
+
